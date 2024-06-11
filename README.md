@@ -109,3 +109,12 @@ pip install "unsloth[conda] @ git+https://github.com/unslothai/unsloth.git"
 pip install click platformdirs
 ```
 
+#### Fine-tuning with your own data
+```bash
+python fine_tuning.py
+```
+#### Inference
+
+```bash
+python inference.py
+```
