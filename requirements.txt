@@ -1,0 +1,4 @@
+litellm==1.7.12
+posthog==2.5.0
+datasets
+huggingface_hub
